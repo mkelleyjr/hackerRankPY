@@ -10,6 +10,8 @@ import sys
 
 if __name__ == '__main__':
     n = int(input().strip())
+
+    # make use of mod operator - 
     
     if n % 2 != 0:
         print("Weird")
