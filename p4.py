@@ -4,5 +4,6 @@
 
 if __name__ == '__main__':
     n = int(input())
+    # Create a loop that prints the square of each number from 0 to n-1
     for i in range(n):
         print(i*i)
